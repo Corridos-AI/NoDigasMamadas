@@ -1,0 +1,12 @@
+train: 'c:\Users\juank\Desktop\NoDigasMamadas\images\train'
+val: 'c:\Users\juank\Desktop\NoDigasMamadas\images\val'
+test: 'c:\Users\juank\Desktop\NoDigasMamadas\images\test'
+
+# Classes
+nc: 5
+names: 
+  - 'Vehiculos'
+  - 'Construcciones'
+  - 'Vias'
+  - 'Rios'
+  - 'Mineria'
