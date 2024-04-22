@@ -1,7 +1,7 @@
 train: 'c:\Users\juank\Desktop\NoDigasMamadas\images\train'
 val: 'c:\Users\juank\Desktop\NoDigasMamadas\images\val'
 test: 'c:\Users\juank\Desktop\NoDigasMamadas\images\test'
-
+train_labels: 'c:\Users\juank\Desktop\NoDigasMamadas\labels\train'
 # Classes
 nc: 5
 names: 
